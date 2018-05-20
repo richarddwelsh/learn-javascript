@@ -1,2 +1,3 @@
-# learn-javascript
-My JavaScript course
+## learn-javascript
+
+Hello world.
